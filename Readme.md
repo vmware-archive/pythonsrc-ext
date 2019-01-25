@@ -37,3 +37,56 @@ bases, node_classses and scoped_nodes contain the classes for the different type
 the manager contains a high level object to get astng trees from source files and living objects. It maintains a cache of previously constructed tree for quick access
 
 https://pypi.org/project/logilab-astng/
+
+## mock-1.0.1.tar.gz
+mock is a library for testing in Python. It allows you to replace parts of your system under test with mock objects and make assertions about how they have been used.
+
+mock is now part of the Python standard library, available as unittest.mock in Python 3.3 onwards.
+
+This package contains a rolling backport of the standard library mock code compatible with Python 2.6 and up, and 3.3 and up.
+
+Please see the standard library documentation for more details.
+https://pypi.org/project/mock/
+
+## paramiko-1.18.4.tar.gz
+This is a library for making SSH2 connections (client or server). Emphasis is on using SSH2 as an alternative to SSL for making secure connections between python scripts. All major ciphers and hash methods are supported. SFTP client and server mode are both supported too.
+https://pypi.org/project/paramiko/
+
+## parse-1.5.3.tar.gz
+Parse strings using a specification based on the Python format() syntax.
+https://github.com/greenplum-db/pythonsrc-ext
+
+## psutil-4.0.0.tar.gz
+psutil is a module providing an interface for retrieving information on all running processes and system utilization (CPU, disk, memory) in a portable way by using Python, implementing many functionalities offered by command line tools such as: ps, top, df, kill, free, lsof, free, netstat, ifconfig, nice, ionice, iostato, iotop, uptime, tty.
+
+It currently supports Linux, Windows, OSX and FreeBSD both 32-bit and 64-bit with Python versions from 2.4 to 3.3 by using a single code base.
+https://github.com/greenplum-db/pythonsrc-ext
+
+## pycrypto-2.6.1.tar.gz
+This is a collection of both secure hash functions (such as SHA256 and RIPEMD160), and various encryption algorithms (AES, DES, RSA, ElGamal, etc.). The package is structured to make adding new modules easy. This section is essentially complete, and the software interface will almost certainly not change in an incompatible way in the future; all that remains to be done is to fix any bugs that show up
+https://pypi.org/project/pycrypto/
+
+## pylint-0.21.0.tar.gz
+Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+
+It’s highly configurable, having special pragmas to control its errors and warnings from within your code, as well as from an extensive configuration file. It is also possible to write your own plugins for adding your own checks or for extending pylint in one way or another.
+https://pypi.org/project/pylint/
+
+## setuptools-36.6.0.tar.gz
+Setuptools is a fully-featured, actively-maintained, and stable library designed to facilitate packaging Python projects, where packaging includes:
+
+Python package and module definitions
+Distribution package metadata
+Test hooks
+Project installation
+Platform-specific details
+Python 3 support
+
+https://pypi.org/project/setuptools/
+
+## unittest2-0.5.1.tar.gz
+unittest2 is a backport of the new features added to the unittest testing framework in Python 2.7 and onwards. It is tested to run on Python 2.6, 2.7, 3.2, 3.3, 3.4 and pypy.
+
+https://pypi.org/project/unittest2/
+
+
