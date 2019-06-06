@@ -1,6 +1,4 @@
 argparse==1.2.1
 ecdsa==0.13
 lockfile==0.9.1
-paramiko==1.18.4
 psutil==4.0.0
-pycrypto==2.6.1
